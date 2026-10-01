@@ -20,8 +20,8 @@
 * [X] Calculate the exact hit point
 * [X] Calculate a sphere’s surface normal
 * [X] Color a sphere using its normal
-* [ ] Render multiple spheres
-* [ ] Explain the entire pipeline from camera to pixel
+* [X] Render multiple spheres
+* [X] Explain the entire pipeline from camera to pixel
 
 ## Resources
 
